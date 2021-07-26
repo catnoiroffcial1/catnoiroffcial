@@ -30,7 +30,7 @@ function drop(ev) {
 
 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 <br>
-<img id="drag1" src="img_logo.gif" draggable="true" ondragstart="drag(event)" width="336" height="69">
+<img id="drag1" src="https://www.w3schools.com/html/img_logo.gif" draggable="true" ondragstart="drag(event)" width="336" height="69">
 
 </body>
 </html>
